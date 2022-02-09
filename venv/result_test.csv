@@ -1,0 +1,4 @@
+ip,isp,country_code,country_name,region_code,region_name,city,connection_type,is_cellular,is_proxy,is_vpn
+64.19.249.160,"Speedcast Communications, Inc",US,United States,LA,Louisiana,Lafayette,business,,False,
+64.19.248.249,"Speedcast Communications, Inc",US,United States,TX,Texas,Houston,business,,False,
+64.19.246.22,"Speedcast Communications, Inc",US,United States,TX,Texas,Katy,business,,False,

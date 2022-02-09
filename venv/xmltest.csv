@@ -1,0 +1,3 @@
+IP,comment,parametr, ipgeolocation_devide,IP2Location,IP2Location_proxyKey,IP2Location_locationKey,location_package,proxy_package,xml_key
+102.129.153.246,if proxy present,geostream.is_proxy,1,1,LYUAERZXUO,ELSKVN9L6N,WS23,PX2,at_dFLl9O42DVlcDWrgs0w8KvfPayJdG
+102.129.153.72,if proxy present,geostream.is_proxy,1,1,LYUAERZXUO,ELSKVN9L6N,WS23,PX2,at_dFLl9O42DVlcDWrgs0w8KvfPayJdG

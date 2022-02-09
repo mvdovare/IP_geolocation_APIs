@@ -1,0 +1,2 @@
+{"response": "OK", "countryCode": "US", "countryName": "United States of America", "proxyType": "VPN", "isProxy": "YES", "creditsConsumed": 2, "IP": "102.129.153.246"}
+{"response": "OK", "countryCode": "MN", "countryName": "Mongolia", "proxyType": "PUB", "isProxy": "YES", "creditsConsumed": 2, "IP": "103.10.22.234"}
